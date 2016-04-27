@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task To Do</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="radio_scheduleMessage">Send Task</string>
+    <string name="radio_normalAlarm">Alarm</string>
+    <string name="radio_spchToText">Speech text</string>
+    <string name="add_new">New Task</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="back_to_main">Back</string>
+    <string name="done_txt">Done</string>
+
+</resources>

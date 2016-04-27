@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorActivityBackground"
+    android:orientation="vertical"
+    tools:context="com.android.vicky.tabdemo.TextToSpeechTask">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:text="Task Name"
+        android:textSize="40dp"
+        android:textColor="@color/colorHint"
+        android:gravity="center"
+        android:id="@+id/viewTask"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:text="Task in details"
+        android:textColor="@color/colorHint"
+        android:gravity="center"
+        android:layout_marginLeft="8dp"
+        android:textSize="25dp"
+        android:id="@+id/viewTaskInDetail"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/off_icon_128"
+            android:id="@+id/exitFrom"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="click to exit"
+            android:textColor="@color/colorHint"
+            android:textSize="15dp"/>
+    </LinearLayout>
+
+</LinearLayout>

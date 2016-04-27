@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorAccent">#2196F3</color>
+    <color name="colorStatusActive">#00E676</color>
+    <color name="colorTime">#fff</color>
+    <color name="colorActivityBackground">#212121</color>
+    <color name="colorImgBackground">#424242</color>
+    <color name="colorInfoBackground">#424242</color>
+    <color name="colorListBodyText">#FFF</color>
+    <color name="darkGray">#424242</color>
+    <color name="default_screen_bg">#f9f9f9</color>
+    <color name="rounded_container_bg">#222222</color>
+    <color name="rounded_container_border">#3b3f44</color>
+    <color name="light_gray_header_color">#646663</color>
+    <color name="formFontColor">#FFF</color>
+    <color name="colorHint">#9E9E9E</color>
+    <color name="textColorHint">#9E9E9E</color>
+    <color name="color_time_active">#00E676</color>
+    <color name="color_completed">#FFCA28</color>
+    <color name="colorTransparent">#00FFFFFF</color>
+</resources>
